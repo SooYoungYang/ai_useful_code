@@ -1,3 +1,3 @@
 # ai_useful_code
 
-#Store useful code fragments
+Store useful code fragments
